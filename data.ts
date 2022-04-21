@@ -39,4 +39,54 @@ export const projects: IProject[] = [
     category: ["react"],
     key_techs: ["Javascript", "html", "css"],
   },
+  {
+    name: "Rio Grappling Club ",
+    description: "Home Site Of Rio Grappling Club Stellenbosch",
+    image_path: "/images/RGClogo.png",
+    deployed_url: "https://www.riograpplingclubstellenbosch.com/",
+    github_url:
+      "https://github.com/rgcstellenbosch/Rio-Grappling-Club-Stellenbosch",
+    category: ["react"],
+    key_techs: ["Javascript", "html", "css"],
+  },
+  {
+    name: "Rio Grappling ",
+    description: "Home Site Of Rio Grappling Club Stellenbosch",
+    image_path: "/images/RGClogo.png",
+    deployed_url: "https://www.riograpplingclubstellenbosch.com/",
+    github_url:
+      "https://github.com/rgcstellenbosch/Rio-Grappling-Club-Stellenbosch",
+    category: ["react"],
+    key_techs: ["Javascript", "html", "css"],
+  },
+  {
+    name: "Rio ",
+    description: "Home Site Of Rio Grappling Club Stellenbosch",
+    image_path: "/images/RGClogo.png",
+    deployed_url: "https://www.riograpplingclubstellenbosch.com/",
+    github_url:
+      "https://github.com/rgcstellenbosch/Rio-Grappling-Club-Stellenbosch",
+    category: ["react"],
+    key_techs: ["Javascript", "html", "css"],
+  },
+  {
+    name: "Grappling Club Stellenbosch",
+    description: "Home Site Of Rio Grappling Club Stellenbosch",
+    image_path: "/images/RGClogo.png",
+    deployed_url: "https://www.riograpplingclubstellenbosch.com/",
+    github_url:
+      "https://github.com/rgcstellenbosch/Rio-Grappling-Club-Stellenbosch",
+    category: ["react"],
+    key_techs: ["Javascript", "html", "css"],
+  },
+  {
+    name: " Club Stellenbosch",
+    description: "Home Site Of Rio Grappling Club Stellenbosch",
+    image_path: "/images/RGClogo.png",
+    deployed_url: "https://www.riograpplingclubstellenbosch.com/",
+    github_url:
+      "https://github.com/rgcstellenbosch/Rio-Grappling-Club-Stellenbosch",
+    category: ["react"],
+    key_techs: ["Javascript", "html", "css"],
+  },
 ];
